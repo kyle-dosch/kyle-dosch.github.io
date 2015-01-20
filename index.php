@@ -8,7 +8,6 @@
  * Allows me to save stats in a mySQL database and query and compare different players
  * matched up against different teams.
  * 
- * Helps determine favorable matchups for daily fantasy sports sites.
  *
  * @author Kyle Dosch
  */
